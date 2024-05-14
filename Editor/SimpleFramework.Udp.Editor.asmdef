@@ -1,0 +1,17 @@
+{
+    "name": "SimpleFramework.Udp.Editor",
+    "references": [
+        "GUID:28d6572b0fe6dc5478d68eaa1bca9bb7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
